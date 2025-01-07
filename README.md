@@ -21,6 +21,3 @@
   <img src="https://wakatime.com/share/@maksim8j/cd0f3958-703d-4db0-ba00-c06ae2f5e38d.svg" width="700" />
 </a>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=maksim8j&label=Profile%20Views&color=1&icon=2&pretty=false" />
-</a>
